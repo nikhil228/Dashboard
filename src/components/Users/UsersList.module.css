@@ -1,0 +1,19 @@
+.users {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px;
+    margin: 2rem auto;
+    width: 40%;
+  }
+  
+  .users ul {
+    list-style: none;
+    padding: 1rem;
+  }
+  
+  .users li {
+    border: 1px solid rgb(201, 111, 111);
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 10px;
+    font-weight: bold;
+  }
